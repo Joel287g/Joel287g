@@ -20,7 +20,14 @@ Desarrollador Backend con 4 años de experiencia. Me especializo en construir AP
 
 ### 🚀 Proyectos Recientes
 
-* **Error codes generator (Nov 2025):** Extensión de VS Code para optimizar el flujo de trabajo gestionando códigos de error.
-* **Inventario Dual-Arch (Oct 2025 - Actualidad):** Investigación comparativa entre Arquitectura Modular y Hexagonal en NestJS.
-* **Billing Engine:** Motor de facturación robusto bajo principios de Arquitectura Hexagonal.
-* **Nest.JS + Microservicios (Aug 2025):** Sistema distribuido con múltiples bases de datos y
+* **Error codes generator (Nov 2025):** Extensión de VS Code diseñada para optimizar el flujo de trabajo gestionando códigos de error y nomenclaturas directamente en el editor.
+* **Inventario Dual-Arch (Oct 2025 - Actualidad):** Proyecto de investigación que compara la implementación de sistemas bajo Arquitectura Modular vs. Arquitectura Hexagonal en NestJS.
+* **Billing Engine:** Desarrollo de un motor de facturación robusto bajo principios de Arquitectura Hexagonal para asegurar el desacoplamiento y la escalabilidad.
+* **Nest.JS + Microservicios (Aug 2025):** Creación de sistemas distribuidos utilizando múltiples bases de datos y transporte de datos para escalabilidad independiente.
+
+---
+
+### 💼 Experiencia Destacada
+
+* **Desarrollador Backend en Chinchin:** Diseñé y desarrollé una API con seguridad multicapa (cifrado avanzado y biometría) que redujo el tiempo de integración bancaria en un 50%.
+* **Fullstack Developer en Sitio Uno:** Lideré el desarrollo integral de una aplicación móvil SAAS en Java/Android enfocada en la administración eficiente de estacionamientos.
